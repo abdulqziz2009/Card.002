@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267594693734",
+    "project_id": "loshok-db60c",
+    "storage_bucket": "loshok-db60c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267594693734:android:1bc17eb0f08886626281a7",
+        "android_client_info": {
+          "package_name": "com.myself223.card"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC768wogtc8QyZmn68WusmE2K7jPo5WOTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "2"
+}
